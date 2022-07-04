@@ -1,0 +1,71 @@
+header {
+    background-color: #4ea0ff;
+    background-image: url(img/pattern.png);
+    background-repeat: repeat;
+    background-size: contain;
+    height: 100px;
+
+
+}
+
+.logo {
+    height: 60px;
+    position: absolute;
+    top: 45px;
+}
+
+main {
+    block-size: auto;
+
+}
+
+.photos-top {
+    width: 100%;
+}
+
+
+h1 {
+    font-size: 70px;
+}
+
+#name-site {
+    color: #4ea0ff;
+}
+
+table {
+    width: 100%;
+}
+
+thead {
+    background-color: #689bd4;
+    color: white;
+}
+
+#columns {
+    width: 500px;
+}
+
+tbody {
+    background-color: rgb(145, 212, 232)
+}
+
+#seconda-riga {
+    background-color: white;
+}
+
+#finepagina {
+    color: grey;
+}
+
+
+.container {
+    position: relative;
+    color: white;
+}
+
+.top-text {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+    font-size: 26px;
+}
