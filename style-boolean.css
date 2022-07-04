@@ -16,6 +16,7 @@ header {
 
 main {
     block-size: auto;
+    font-size: 1rem;
 
 }
 
@@ -23,9 +24,13 @@ main {
     width: 100%;
 }
 
+#spiegazione-foto {
+    font-size: 0.7rem;
+}
+
 
 h1 {
-    font-size: 70px;
+    font-size: 3.3rem;
 }
 
 #name-site {
@@ -42,7 +47,7 @@ thead {
 }
 
 #columns {
-    width: 500px;
+    width: 25%;
 }
 
 tbody {
